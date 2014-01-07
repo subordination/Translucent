@@ -18,11 +18,11 @@ to [look over our list of contributors](https://github.com/subordination/Translu
 Make sure to show your appreciation to everyone on this list!
 
 -
-**Important:** if you wish to receive credit for icons you submit and
+**Important:** If you wish to receive credit for icons you submit and
 be listed on the contributors page you must have a public email address
 attached to your Github profile.
 
-How You Can Help Make 'Translucent' More Awesome
+How You Can Help
 =====================================================================
 Whether it's requests, contributions or bugs, thanks to everyone who
 helps make 'Translucent' the a great iOS7 Winterboard Theme.
@@ -30,4 +30,4 @@ helps make 'Translucent' the a great iOS7 Winterboard Theme.
   * [Submitting an Icon Request](https://github.com/subordination/Translucent/wiki/Submit-Icon-Request/)
   * [Contributing an Icon](https://github.com/subordination/Translucent/wiki/Contribute-An-Icon/)
   * [Submit a Bug](https://github.com/subordination/Translucent/issues/)
-  * or our favourite option... submit a pull request!
+  * or the best option is to submit a pull request!
