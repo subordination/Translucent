@@ -1,4 +1,4 @@
 Translucent
 ===========
 
-Translucent, a Winterboard Theme for iOS7 devices.
+Translucent. A transparent Winterboard Theme for iOS7 devices.
