@@ -1,6 +1,8 @@
 Overview
 =====================================================================
 
+<img src="http://i.imgur.com/h08V4XE.png" width="200" height="200" align="right" />
+
 'Translucent' is a brand new community theme for iOS7 iDevices. This theme will continue to grow with users submitting icons for everybody to use. 'Translucent' allows your iDevice wallpaper to be seen through the icons, this even includes the parallax effects.
 
 To start with, base icons are included, but this will grow rapidly.
