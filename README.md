@@ -6,12 +6,12 @@ Overview
 To start with, base icons are included, but this will grow rapidly.
 
 Either download from ~~Cydia (search for 'Translucent')~~, or [click
-here](https://github.com/subordination/Translucent/tarball/master).
+here](https://github.com/subordination/Translucent/tarball/master/).
 
 Contributors
 =====================================================================
 Without them, 'Translucent' wouldn't be what it is today. Please take a moment
-to [look over our list of contributors](https://github.com/subordination/Translucent/graphs/contributors).
+to [look over our list of contributors](https://github.com/subordination/Translucent/graphs/contributors/).
 
 Make sure to show your appreciation to everyone on this list!
 
@@ -25,7 +25,7 @@ How You Can Help Make 'Translucent' More Awesome
 Whether it's requests, contributions or bugs, thanks to everyone who
 helps make 'Translucent' the a great iOS7 Winterboard Theme.
 
-  * [Submitting an Icon Request](https://github.com/subordination/Translucent#soon)
-  * [Contributing an Icon](https://github.com/subordination/Translucent#soon)
-  * [Submit a Bug](https://github.com/subordination/Translucent#soon)
+  * [Submitting an Icon Request](https://github.com/subordination/Translucent/wiki/Submit-Icon-Request/)
+  * [Contributing an Icon](https://github.com/subordination/Translucent/wiki/Contribute-An-Icon/)
+  * [Submit a Bug](https://github.com/subordination/Translucent/issues/)
   * or our favourite option... submit a pull request!
