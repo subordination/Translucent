@@ -29,5 +29,5 @@ helps make 'Translucent' the a great iOS7 Winterboard Theme.
 
   * [Submitting an Icon Request](https://github.com/subordination/Translucent/wiki/Submit-Icon-Request/)
   * [Contributing an Icon](https://github.com/subordination/Translucent/wiki/Contribute-An-Icon/)
-  * [Submit a Bug](https://github.com/subordination/Translucent/issues/)
+  * [Submit a Bug](https://github.com/subordination/Translucent/issues?labels=Issue&page=1&state=open)
   * or the best option is to submit a pull request!
