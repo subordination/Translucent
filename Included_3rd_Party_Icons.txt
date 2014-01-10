@@ -1,0 +1,35 @@
+Translucent
+A community driven iOS WinterBoard theme. See your wallpaper through your App icons.
+
+Web: http://translucent.subordination.co.uk/
+Twitter: https://twitter.com/translucenticon
+
+***
+
+Currently, 'Translucent' includes the following 3rd party icons:
+
+***
+
+Alien Blue
+Apple Find My Friends
+Apple Remote
+BBC News
+Cydia
+Evernote
+Facebook
+Foursquare
+Google Chrome
+Google Maps
+Hullomail
+Night Stand
+Snapchat
+Spotify
+Tweetbot3
+Twitter
+WhatsApp
+WinterBoard
+Youtube
+
+***
+
+Last updated: 10/01/2014

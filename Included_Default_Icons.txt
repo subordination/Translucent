@@ -1,0 +1,42 @@
+Translucent
+A community driven iOS WinterBoard theme. See your wallpaper through your App icons.
+
+Web: http://translucent.subordination.co.uk/
+Twitter: https://twitter.com/translucenticon
+
+***
+
+Currently, 'Translucent' includes the following icons:
+
+***
+
+Apple AppStore
+Apple Calculator
+Apple Camera
+Apple Clock
+Apple Compass
+Apple Facetime
+Apple Game Center
+Apple Maps
+Apple Mobile Address Book
+Apple Mobile Calendar
+Apple Mobile Mail
+Apple Mobile Notes
+Apple Mobile Phone
+Apple Mobile Safari
+Apple Mobile Slide Show
+Apple Mobile SMS
+Apple Mobile Store
+Apple Music
+Apple NewsStand
+Apple Passbook
+Apple Preferences
+Apple Reminders
+Apple Stocks
+Apple Videos
+Apple Voice Memos
+Apple Weather
+
+***
+
+Last updated: 10/01/2014
