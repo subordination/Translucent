@@ -1,4 +1,5 @@
 **NEW - Follow us on [Twitter](https://twitter.com/translucenticon).**
+=====================================================================
 
 Overview
 =====================================================================
@@ -9,7 +10,7 @@ Overview
 
 To start with, base icons are included, but this will grow rapidly.
 
-Either download from ~~Cydia (search for 'Translucent')~~, or [click
+Either download from [Cydia (search for 'Translucent')](http://cydia.saurik.com/package/com.modmyi.translucent), or [click
 here](https://github.com/subordination/Translucent/tarball/master/).
 
 Contributors
