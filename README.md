@@ -1,12 +1,12 @@
 # Translucent
 
-## A community driven iOS WinterBoard theme. See your wallpaper through your App icons.
+#### A community driven iOS WinterBoard theme. See your wallpaper through your App icons.
 
-```
+
 * [Visit Us](http://translucent.subordination.co.uk/)
 * [Follow Us On Twitter](https://twitter.com/translucenticon)
 * [Get Support](https://github.com/subordination/Translucent)
-```
+
 
 
 
