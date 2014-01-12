@@ -1,8 +1,17 @@
-**NEW - Follow us on [Twitter](https://twitter.com/translucenticon).**
-=====================================================================
+# Translucent
+
+## A community driven iOS WinterBoard theme. See your wallpaper through your App icons.
+
+```
+* [Visit Us](http://translucent.subordination.co.uk/)
+* [Follow Us On Twitter](https://twitter.com/translucenticon)
+* [Get Support](https://github.com/subordination/Translucent)
+```
+
+
 
 Overview
-=====================================================================
+======
 
 <img src="http://i.imgur.com/h08V4XE.png" width="200" height="200" align="right" />
 
