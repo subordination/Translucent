@@ -3,6 +3,7 @@ A community driven iOS WinterBoard theme. See your wallpaper through your App ic
 
 Web: http://translucent.subordination.co.uk/
 Twitter: https://twitter.com/translucenticon
+Support: https://github.com/subordination/Translucent
 
 ***
 
@@ -10,49 +11,53 @@ Currently, 'Translucent' includes the following 3rd party icons:
 
 ***
 
+8tracks Radio - Free Music Playlists 
+Activator
 Alien Blue
 Apple Find My Friends
 Apple Remote
+Ask.fm
 BBC News
+Camera+
 Cydia
+Dropbox
 Evernote
+F.lux
 Facebook
 Foursquare
+Gmail
 Google Chrome
 Google Maps
 Hullomail
+iCleaner Pro
+IMDb Movies & TV
+Instagram
+Kik Messenger
+Mailbox
+Netflix
 Night Stand
+PayPal
 Pocket (Formerly Read It Later)
+Reeder 2
+Rowmote Pro
+Shazam
+Skype for iPhone
 Snapchat
 Spotify
+Tumblr
 Tweetbot3
 Twitter
+Vine
 WhatsApp
 WinterBoard
 Youtube
 
+***
 
-Ask.fm
-Tumblr
-Vine
-Netflix
-IMDb Movies & TV
-Shazam
-8tracks Radio - Free Music Playlists 
-Dropbox
-Instagram
-Mailbox
-Camera+
-Gmail
-Rowmote Pro
-Reeder 2
-Kik Messenger
-PayPal
-Skype for iPhone
-F.lux
-Activator
-iCleaner Pro
+Special thanks for providing the icons go out to:
+
+Instagram Camera by Kyle Mac from The Noun Project
 
 ***
 
-Last updated: 10/01/2014
+Last updated: 12/01/2014

@@ -3,6 +3,7 @@ A community driven iOS WinterBoard theme. See your wallpaper through your App ic
 
 Web: http://translucent.subordination.co.uk/
 Twitter: https://twitter.com/translucenticon
+Support: https://github.com/subordination/Translucent
 
 ***
 
@@ -39,4 +40,30 @@ Apple Weather
 
 ***
 
-Last updated: 10/01/2014
+Special thanks for providing the icons go out to:
+
+Calculator by Luboš Volkov from The Noun Project
+Camera by Edward Boatman from The Noun Project
+Clock by John Caserta from The Noun Project
+Compass by Adam Whitcroft from The Noun Project
+Video Camera by Thomas Le Bas from The Noun Project
+Game by Edward Boatman from The Noun Project
+Map by Joe Harrison from The Noun Project
+Mail by Thomas Le Bas from The Noun Project
+Notepad by Thomas Le Bas from The Noun Project
+Telephone by Jardson A. from The Noun Project
+Compass by Márcio Duarte from The Noun Project
+Picture by Shane Miller from The Noun Project
+Speech Bubble by Ben Byford from The Noun Project
+Headphones by Darren Dutch from The Noun Project
+Newspaper by Scott Lewis from The Noun Project
+Book by Michael Rowe from The Noun Project
+List by Quan Do from The Noun Project
+Trending by Michael Rowe from The Noun Project
+Movie by P.J. Onori from The Noun Project
+Microphone by Diego Naive from The Noun Project
+Weather by Alex Sheyn from The Noun Project
+
+***
+
+Last updated: 12/01/2014
