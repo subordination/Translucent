@@ -18,13 +18,17 @@ Apple Find My Friends
 Apple Remote
 Ask.fm
 BBC News
+BiteSMS
 Camera+
+Clear+ Tasks & To-Do List
 Clear+ Tasks & To-Do List
 Cydia
 Dropbox
+eBay
 Evernote
 F.lux
 Facebook
+FitBit
 Foursquare
 Gmail
 Google Chrome
@@ -33,7 +37,9 @@ Hullomail
 iCleaner Pro
 IMDb Movies & TV
 Instagram
+Kickstarter for iPhone
 Kik Messenger
+LinkedIn
 Mailbox
 Netflix
 Night Stand
@@ -41,6 +47,7 @@ PayPal
 Pocket (Formerly Read It Later)
 Reeder 2
 Rowmote Pro
+RunKeeperPro
 Shazam
 Skype for iPhone
 Snapchat
@@ -49,6 +56,7 @@ Tumblr
 Tweetbot3
 Twitter
 Vine
+Waze Social GPS, Maps & Traffic
 WhatsApp
 WinterBoard
 Youtube

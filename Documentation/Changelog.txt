@@ -11,6 +11,19 @@ Support: https://github.com/subordination/Translucent
 
 
 ==========
+* 0.0.4
+Removed redundant files
+
+Additional icons added include:
+BiteSMS
+Clear+ Tasks & To-Do List
+eBay
+FitBit
+Kickstarter for iPhone
+LinkedIn
+RunKeeperPro
+Waze Social GPS, Maps & Traffic
+
 
 * 0.0.3
 Transparent folder background image removed.
