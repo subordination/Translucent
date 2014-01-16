@@ -11,52 +11,89 @@ Currently, 'Translucent' includes the following 3rd party icons:
 
 ***
 
+4oD
 8tracks Radio - Free Music Playlists 
 Activator
+Adobe Reader (Credit: maxc0504)
 Alien Blue
+Amazon App
+AppInfo
 Apple Find My Friends
+Apple iBooks
+Apple Podcasts
 Apple Remote
+Asda
 Ask.fm
+ASYNC Corp (Credit: maxc0504)
+BBC iPlayer
 BBC News
 BiteSMS
+btcReport - Bitcoin Exchange Tracker and Converter
 Camera+
+Chase Mobile (SM): (Credit: maxc0504)
+Clash of Clans (Credit: Briton Hainsworth)
 Clear+ Tasks & To-Do List
 Clear+ Tasks & To-Do List
 Cydia
+Doctor Who: Legacy
+Dots (Credit: maxc0504)
 Dropbox
 eBay
 Evernote
 F.lux
 Facebook
+Find My iPhone
+FineScanner: (Credit: maxc0504)
 FitBit
+Flipboard
+Flow Free (Credit: maxc0504)
+Flow Free Bridges (Credit: maxc0504)
 Foursquare
+GBK (Credit: maxc0504)
 Gmail
+Goodreads (Credit: maxc0504)
 Google Chrome
 Google Maps
+Google Translate
+httpebble
 Hullomail
 iCleaner Pro
+iFile
 IMDb Movies & TV
+Imgurl (Credit: maxc0504)
 Instagram
 Kickstarter for iPhone
 Kik Messenger
 LinkedIn
+Lists To Do (Credit: maxc0504)
 Mailbox
+MyPebbleFaces
 Netflix
 Night Stand
+Pac-Man (Credit: maxc0504)
+Pandora: (Credit: maxc0504)
 PayPal
+Pebble
+Plague Inc (Credit: maxc0504)
 Pocket (Formerly Read It Later)
 Reeder 2
 Rowmote Pro
 RunKeeperPro
+Scan - QR Code and Barcode Reader (Credit: maxc0504)
+Scrobbler for iOS (Credit: maxc0504)
 Shazam
 Skype for iPhone
 Snapchat
 Spotify
+TomTom - Brazil
+TomTom - UK & Ireland
+Trillian: (Credit: maxc0504)
 Tumblr
 Tweetbot3
 Twitter
 Vine
 Waze Social GPS, Maps & Traffic
+Weeronline (Credit: maxc0504)
 WhatsApp
 WinterBoard
 Youtube
