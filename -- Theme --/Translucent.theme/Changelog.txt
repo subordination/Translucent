@@ -11,6 +11,62 @@ Support: https://github.com/subordination/Translucent
 
 
 ==========
+* 0.0.5
+Updated Reminders icon.
+
+Additional icons added include:
+4oD
+Adobe Reader (Credit: maxc0504)
+Amazon App
+AppInfo
+Apple iBooks
+Apple Podcasts
+Asda
+ASYNC Corp (Credit: maxc0504)
+BBC iPlayer
+btcReport - Bitcoin Exchange Tracker and Converter
+Chase Mobile (SM): (Credit: maxc0504)
+Clash of Clans (Credit: Briton Hainsworth)
+Doctor Who: Legacy
+Dots (Credit: maxc0504)
+Find My iPhone
+FineScanner: (Credit: maxc0504)
+Flipboard
+Flow Free (Credit: maxc0504)
+Flow Free Bridges (Credit: maxc0504)
+GBK (Credit: maxc0504)
+Goodreads (Credit: maxc0504)
+Google Translate
+httpebble
+iFile
+Imgurl (Credit: maxc0504)
+Lists To Do (Credit: maxc0504)
+MyPebbleFaces
+Pac-Man (Credit: maxc0504)
+Pandora: (Credit: maxc0504)
+Pebble
+Plague Inc (Credit: maxc0504)
+Scan - QR Code and Barcode Reader (Credit: maxc0504)
+Scrobbler for iOS (Credit: maxc0504)
+TomTom - Brazil
+TomTom - UK & Ireland
+Trillian: (Credit: maxc0504)
+Weeronline (Credit: maxc0504)
+
+
+* 0.0.4
+Removed redundant files
+
+Additional icons added include:
+BiteSMS
+Clear+ Tasks & To-Do List
+eBay
+FitBit
+Kickstarter for iPhone
+LinkedIn
+RunKeeperPro
+Waze Social GPS, Maps & Traffic
+
 
 * 0.0.3
 Transparent folder background image removed.
@@ -57,6 +113,7 @@ WhatsApp
 WinterBoard
 Youtube
 
+
 * 0.0.2
 Fixed grey border on icons.
 Transparent folder background image added (FolderMask@2x~iphone.png).
@@ -64,6 +121,7 @@ Transparent folder background image added (FolderMask@2x~iphone.png).
 Additional icons added include:
 Twitter
 Alien Blue
+
 
 * 0.0.1
 Initial release with stock icons
