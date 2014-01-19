@@ -11,10 +11,12 @@ Currently, 'Translucent' includes the following 3rd party icons:
 
 ***
 
+1 Second Everyday
 4oD
 8tracks Radio - Free Music Playlists 
 Activator
 Adobe Reader (Credit: maxc0504)
+Airport Utility (Credit: maxc0504)
 Alien Blue
 Amazon App
 AppInfo
@@ -22,6 +24,7 @@ Apple Find My Friends
 Apple iBooks
 Apple Podcasts
 Apple Remote
+Apple Store (Credit: maxc0504)
 Asda
 Ask.fm
 ASYNC Corp (Credit: maxc0504)
@@ -29,12 +32,25 @@ BBC iPlayer
 BBC News
 BiteSMS
 btcReport - Bitcoin Exchange Tracker and Converter
+Buscapé - Comparador de Preços Grátis (Credit: maxc0504)
+BytaFont2
 Camera+
+Capital One UK
 Chase Mobile (SM): (Credit: maxc0504)
+Chiltern Railways
+Cineworld (Credit: maxc0504)
 Clash of Clans (Credit: Briton Hainsworth)
 Clear+ Tasks & To-Do List
 Clear+ Tasks & To-Do List
+Cleartune (Credit: maxc0504)
+ClickSnap
+CodeHub - GitHub for iOS
+Convertbot
+Currency! Free
 Cydia
+Dailymotion
+Day One (Journal / Diary)
+Digg
 Doctor Who: Legacy
 Dots (Credit: maxc0504)
 Dropbox
@@ -45,6 +61,7 @@ Facebook
 Find My iPhone
 FineScanner: (Credit: maxc0504)
 FitBit
+Flex App
 Flipboard
 Flow Free (Credit: maxc0504)
 Flow Free Bridges (Credit: maxc0504)
@@ -52,9 +69,11 @@ Foursquare
 GBK (Credit: maxc0504)
 Gmail
 Goodreads (Credit: maxc0504)
+Google Authenticator (Credit: maxc0504)
 Google Chrome
 Google Maps
 Google Translate
+Hex Calc (Credit: maxc0504)
 httpebble
 Hullomail
 iCleaner Pro
@@ -66,16 +85,32 @@ Kickstarter for iPhone
 Kik Messenger
 LinkedIn
 Lists To Do (Credit: maxc0504)
+London Bus Checker (Credit: maxc0504)
 Mailbox
+Mandic Magic (Credit: maxc0504)
+MercadoLibre (Credit: maxc0504)
+Mercury Web Browser
+Money by Jumsoft
+Multi Measures - The all-in-1 measuring toolkit (Credit: maxc0504)
 MyPebbleFaces
+National Trust
 Netflix
 Night Stand
+O2 Priority Moments (Credit: maxc0504) 
+Odeon (Credit: maxc0504)
+Over
 Pac-Man (Credit: maxc0504)
 Pandora: (Credit: maxc0504)
 PayPal
 Pebble
+Philips MyRemote (Credit: maxc0504)
+Phone Drive (Credit: maxc0504)
+Pingdom (Credit: maxc0504)
 Plague Inc (Credit: maxc0504)
+Plex
 Pocket (Formerly Read It Later)
+Puffin Web Browser
+QRReader (Credit: maxc0504)
 Reeder 2
 Rowmote Pro
 RunKeeperPro
@@ -84,25 +119,39 @@ Scrobbler for iOS (Credit: maxc0504)
 Shazam
 Skype for iPhone
 Snapchat
+Soundhound (Credit: maxc0504)
+SpeedTest (Credit: maxc0504)
 Spotify
+SUBCARD (Credit: maxc0504)
+Superbrothers: Sword & Sworcery EP (Credit: maxc0504)
+Tapatalk - Connecting Communities (Credit: maxc0504)
+The Co-operative Bank
+Tinder
 TomTom - Brazil
 TomTom - UK & Ireland
 Trillian: (Credit: maxc0504)
+Tube Map
+Tube Map Pro
 Tumblr
 Tweetbot3
 Twitter
 Vine
+VLC for iOS
+Vue Cinema (Credit: maxc0504)
+Wallet
 Waze Social GPS, Maps & Traffic
 Weeronline (Credit: maxc0504)
 WhatsApp
+Where's My Water? (Credit: maxc0504)
 WinterBoard
 Youtube
-
 ***
 
 Special thanks for providing the icons go out to:
 
 Instagram Camera by Kyle Mac from The Noun Project
+Wallet by Hakan Yalcin from The Noun Project
+Wallet by Ben Rex Furneaux from The Noun Project
 
 ***
 

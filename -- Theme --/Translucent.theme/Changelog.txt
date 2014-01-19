@@ -11,6 +11,59 @@ Support: https://github.com/subordination/Translucent
 
 
 ==========
+* 0.0.6
+Updated icon names.
+
+1 Second Everyday
+Airport Utility (Credit: maxc0504)
+Apple Store (Credit: maxc0504)
+Buscapé - Comparador de Preços Grátis (Credit: maxc0504)
+BytaFont2
+Capital One UK
+Chiltern Railways
+Cineworld (Credit: maxc0504)
+Cleartune (Credit: maxc0504)
+ClickSnap
+CodeHub - GitHub for iOS
+Convertbot
+Currency! Free
+Dailymotion
+Day One (Journal / Diary)
+Digg
+Flex App
+Google Authenticator (Credit: maxc0504)
+Hex Calc (Credit: maxc0504)
+London Bus Checker (Credit: maxc0504)
+Mandic Magic (Credit: maxc0504)
+MercadoLibre (Credit: maxc0504)
+Mercury Web Browser
+Money by Jumsoft
+Multi Measures - The all-in-1 measuring toolkit (Credit: maxc0504)
+National Trust
+O2 Priority Moments (Credit: maxc0504) 
+Odeon (Credit: maxc0504)
+Over
+Philips MyRemote (Credit: maxc0504)
+Phone Drive (Credit: maxc0504)
+Pingdom (Credit: maxc0504)
+Plex
+Puffin Web Browser
+QRReader (Credit: maxc0504)
+Soundhound (Credit: maxc0504)
+SpeedTest (Credit: maxc0504)
+SUBCARD (Credit: maxc0504)
+Superbrothers: Sword & Sworcery EP (Credit: maxc0504)
+Tapatalk - Connecting Communities (Credit: maxc0504)
+The Co-operative Bank
+Tinder
+Tube Map
+Tube Map Pro
+VLC for iOS
+Vue Cinema (Credit: maxc0504)
+Wallet
+Where's My Water? (Credit: maxc0504)
+
+
 * 0.0.5
 Updated Reminders icon.
 
